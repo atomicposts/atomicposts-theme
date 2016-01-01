@@ -1,0 +1,52 @@
+/* Styles for sidebar */
+.sidebar {
+  ul {
+    li {
+      text-align: right;
+      list-style: none;
+      padding: 10px 15px;
+
+    }
+  }
+  .image img{
+    float: right;
+  }
+  .widget {
+    margin-bottom: 30px;
+    h3 {
+      font-family: $font-family-title;
+      color: white;
+      text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+      text-align: right;
+      padding: 15px 15px 25px 10px;
+      position: relative;
+      background-repeat: no-repeat;
+      background-position: right top;
+    }
+    &.widget_recent_entries h3 {
+      background-image: url('../images/background-side-yellow.svg');
+    }
+    &.widget_tag_cloud h3 {
+      background-image: url('../images/background-side-aquamarine.svg');
+    }
+    &.widget_search {
+      margin-top: 20px;
+      text-align: right;
+    }
+
+    &.widget_tag_cloud .tagcloud a {
+      float: right;
+      margin: 5px 0 5px 5px;
+      @extend .label;
+      @extend .label-aquamarine;
+      font-size: 12px !important;
+      line-height: 13px;
+      &:nth-child(3n+1) {
+        @extend .label-orange;
+      }
+      &:nth-child(3n+2) {
+        @extend .label-yellow;
+      }
+    }
+  }
+}

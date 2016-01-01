@@ -1,0 +1,15 @@
+/* Text colours */
+@include text-emphasis-variant('.text-orange', $brand-orange);
+@include text-emphasis-variant('.text-aquamarine', $brand-aquamarine);
+@include text-emphasis-variant('.text-yellow', $brand-yellow);
+
+/* Labels */
+.label-aquamarine{
+  @include label-variant(lighten($brand-aquamarine, 10%));
+}
+.label-orange {
+  @include label-variant(lighten($brand-orange, 10%));
+}
+.label-yellow {
+  @include label-variant(lighten($brand-yellow, 10%));
+}

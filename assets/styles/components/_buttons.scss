@@ -1,0 +1,12 @@
+// Custom buttons
+.btn-aquamarine {
+  @include button-variant($btn-primary-color, $brand-aquamarine, $btn-default-border);
+}
+
+.btn-yellow {
+  @include button-variant($btn-primary-color, $brand-yellow, $btn-default-border);
+}
+
+.btn-orange {
+  @include button-variant($btn-primary-color, $brand-orange, $btn-default-border);
+}

@@ -1,0 +1,61 @@
+body > footer {
+  position: relative;
+  background-color: $brand-dark-brown;
+  font-family: $font-family-title;
+  padding: 90px 0 40px 0;
+  margin-top: 160px;
+  color: #fff;
+  font-size: 22px;
+
+  .logo-small {
+    float: left;
+  }
+  .logo-name {
+    float: left;
+    padding: 0 10px 20px 10px;
+    font-size: 30px;
+    span {
+      float: left;
+      clear: both;
+      line-height: 30px;
+    }
+    span:first-child  {
+      color: #9B9B9B;
+    }
+  }
+  .reactors {
+    position: absolute;
+    right: 5%;
+    top: -120px;
+  }
+  .widget_nav_menu {
+    float: right;
+    ul.menu {
+      li {
+        float: left;
+        list-style: none;
+        margin-left: 15px;
+        a {
+          text-decoration: none;
+          color: $brand-yellow;
+          &:hover {
+            color: #fff;
+          }
+        }
+      }
+    }
+
+    ul#menu-footer-bottom {
+      font-family: $font-family-sans-serif;
+      li {
+        a {
+          color: #fff;
+          font-size: 12px;
+        }
+      }
+    }
+  }
+  .logo {
+
+  }
+}
