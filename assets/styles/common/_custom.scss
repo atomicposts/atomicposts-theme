@@ -221,9 +221,26 @@ body.logged-in header.navbar-default {
 /* Page header */
 .page-header {
   margin: 10px 0 20px;
-  font-family: $font-family-title;
+  border-bottom: none;
+  h1 {
+    font-weight: 600;
+  }
 }
 
 
+/* Styles for contact page */
 
-/* Styles for custom tags */
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.frame {
+  height: 250px;
+}

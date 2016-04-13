@@ -11,6 +11,11 @@
     "AnimatedHeader": "*"
   },
   "overrides": {
+    "AnimatedHeader": {
+        "main": [
+            "js/cbpAnimatedHeader.js"
+        ]
+    },
     "bootstrap-sass": {
       "main": [
         "./assets/javascripts/bootstrap/transition.js",

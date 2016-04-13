@@ -1,8 +1,10 @@
 .post {
   text-align: justify;
   margin-bottom: 50px;
+  .entry-summary {
+    float: left;
+  }
   > header {
-    color: $gray-light;
     font-size: 12px;
     > .wp-post-image {
       margin: 30px 0 20px 0;

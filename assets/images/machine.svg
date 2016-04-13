@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="271px" height="604px" viewBox="0 0 271 604" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Machine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Machine" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-41" fill="#E0825D" sketch:type="MSShapeGroup" x="17" y="74" width="233" height="253"></rect>
+            <rect id="Rectangle-42" fill="#424242" sketch:type="MSShapeGroup" x="34" y="87" width="200" height="221" rx="8"></rect>
+            <rect id="Rectangle-46" fill="#E17D55" sketch:type="MSShapeGroup" x="17" y="400" width="233" height="204"></rect>
+            <rect id="Rectangle-46-Copy" fill="#424242" sketch:type="MSShapeGroup" x="62" y="400" width="143" height="143"></rect>
+            <path d="M17,327 L250,327 L270.345703,403 L0.056640625,403 L17,327 Z" id="Rectangle-44" fill="#DFB656" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-45" fill="#EEC35B" sketch:type="MSShapeGroup" x="0" y="403" width="270" height="36"></rect>
+            <rect id="Rectangle-43" fill="#E0825D" sketch:type="MSShapeGroup" x="1" y="0" width="263" height="60"></rect>
+            <text id="Atomic-game" sketch:type="MSTextLayer" font-family="Commando" font-size="30" font-weight="normal" fill="#E4C478">
+                <tspan x="51" y="39">Atomic game</tspan>
+            </text>
+            <path d="M1.48242188,59.8339844 L17.6914062,75.1367188 L250.07671,75.1367188 L264.193359,58.8144531 L1.48242188,59.8339844 Z" id="Path-70" fill="#B56140" sketch:type="MSShapeGroup"></path>
+            <g id="Pad1" transform="translate(25.000000, 339.000000)" sketch:type="MSShapeGroup">
+                <g id="button-1" transform="translate(37.000000, 13.000000)">
+                    <ellipse id="Oval-19" fill="#B9B7B7" cx="14.5" cy="12.5" rx="14.5" ry="5.5"></ellipse>
+                    <path d="M3,6 L26,6 L26,12 C26,12 24.25,15.7827148 14.5,15.7827148 C4.75,15.7827148 3,12 3,12 L3,6 Z" id="Rectangle-49" fill="#669484"></path>
+                    <ellipse id="Oval-18" fill="#91BEAE" cx="14.5" cy="5.5" rx="11.5" ry="5.5"></ellipse>
+                </g>
+                <g id="button-2" transform="translate(67.000000, 24.000000)">
+                    <ellipse id="Oval-19" fill="#B9B7B7" cx="14.5" cy="12.5" rx="14.5" ry="5.5"></ellipse>
+                    <path d="M3,6 L26,6 L26,12 C26,12 24.25,15.7827148 14.5,15.7827148 C4.75,15.7827148 3,12 3,12 L3,6 Z" id="Rectangle-49" fill="#669484"></path>
+                    <ellipse id="Oval-18" fill="#91BEAE" cx="14.5" cy="5.5" rx="11.5" ry="5.5"></ellipse>
+                </g>
+                <g id="Control">
+                    <ellipse id="Oval-17" fill="#B9B7B7" cx="13" cy="39.5" rx="7" ry="3.5"></ellipse>
+                    <rect id="Rectangle-48" fill="#D8D8D8" x="11" y="14" width="4" height="25"></rect>
+                    <circle id="Oval-16" fill="#C04747" cx="13" cy="13" r="13"></circle>
+                    <circle id="Oval-20" opacity="0.32579291" fill="#D8D8D8" cx="8" cy="8" r="4"></circle>
+                </g>
+            </g>
+            <g id="Pad2" transform="translate(141.000000, 339.000000)" sketch:type="MSShapeGroup">
+                <g id="button-1" transform="translate(37.000000, 13.000000)">
+                    <ellipse id="Oval-19" fill="#B9B7B7" cx="14.5" cy="12.5" rx="14.5" ry="5.5"></ellipse>
+                    <path d="M3,6 L26,6 L26,12 C26,12 24.25,15.7827148 14.5,15.7827148 C4.75,15.7827148 3,12 3,12 L3,6 Z" id="Rectangle-49" fill="#104A57"></path>
+                    <ellipse id="Oval-18" fill="#3A6771" cx="14.5" cy="5.5" rx="11.5" ry="5.5"></ellipse>
+                </g>
+                <g id="button-2" transform="translate(67.000000, 24.000000)">
+                    <ellipse id="Oval-19" fill="#B9B7B7" cx="14.5" cy="12.5" rx="14.5" ry="5.5"></ellipse>
+                    <path d="M3,6 L26,6 L26,12 C26,12 24.25,15.7827148 14.5,15.7827148 C4.75,15.7827148 3,12 3,12 L3,6 Z" id="Rectangle-49" fill="#104A57"></path>
+                    <ellipse id="Oval-18" fill="#3A6771" cx="14.5" cy="5.5" rx="11.5" ry="5.5"></ellipse>
+                </g>
+                <g id="Control">
+                    <ellipse id="Oval-17" fill="#B9B7B7" cx="13" cy="39.5" rx="7" ry="3.5"></ellipse>
+                    <rect id="Rectangle-48" fill="#D8D8D8" x="11" y="14" width="4" height="25"></rect>
+                    <circle id="Oval-16" fill="#C04747" cx="13" cy="13" r="13"></circle>
+                    <circle id="Oval-20" opacity="0.32579291" fill="#D8D8D8" cx="8" cy="8" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

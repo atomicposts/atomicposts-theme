@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="137px" height="258px" viewBox="0 0 137 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Bit yellow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Bit-yellow" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-15" fill="#FFCD55" sketch:type="MSShapeGroup" x="37" y="0" width="62" height="75"></rect>
+            <rect id="Rectangle-16" fill="#424242" sketch:type="MSShapeGroup" x="37" y="17" width="48" height="58"></rect>
+            <rect id="Rectangle-17" fill="#AFC296" sketch:type="MSShapeGroup" x="37" y="21" width="44" height="49"></rect>
+            <rect id="Rectangle-18" fill="#FFCD55" sketch:type="MSShapeGroup" x="31" y="75" width="75" height="87"></rect>
+            <rect id="Rectangle-18-Copy" fill="#FFCD55" sketch:type="MSShapeGroup" x="110" y="75" width="25" height="75"></rect>
+            <rect id="Rectangle-18-Copy-4" fill="#FFCD55" sketch:type="MSShapeGroup" x="2" y="75" width="25" height="75"></rect>
+            <rect id="Rectangle-18-Copy-3" fill="#FFCD55" sketch:type="MSShapeGroup" transform="translate(66.500000, 86.500000) rotate(90.000000) translate(-66.500000, -86.500000) " x="55" y="43" width="23" height="87"></rect>
+            <rect id="Rectangle-19" fill="#FFCD55" sketch:type="MSShapeGroup" x="38" y="155" width="29" height="87"></rect>
+            <rect id="Rectangle-19-Copy" fill="#FFCD55" sketch:type="MSShapeGroup" x="70" y="155" width="31" height="87"></rect>
+            <rect id="Rectangle-21" fill="#424242" sketch:type="MSShapeGroup" x="34" y="209" width="33" height="49"></rect>
+            <rect id="Rectangle-21-Copy-2" fill="#424242" sketch:type="MSShapeGroup" x="22" y="237" width="33" height="21"></rect>
+            <rect id="Rectangle-21-Copy-3" fill="#424242" sketch:type="MSShapeGroup" x="81" y="237" width="33" height="21"></rect>
+            <rect id="Rectangle-21-Copy" fill="#424242" sketch:type="MSShapeGroup" x="70" y="209" width="33" height="49"></rect>
+            <rect id="Rectangle-38" fill="#C1D2AB" sketch:type="MSShapeGroup" x="44" y="21" width="5" height="21"></rect>
+            <rect id="Rectangle-38-Copy" fill="#C1D2AB" sketch:type="MSShapeGroup" x="59" y="41" width="5" height="29"></rect>
+            <rect id="Rectangle-38-Copy-2" fill="#C1D2AB" sketch:type="MSShapeGroup" x="46" y="36" width="18" height="6"></rect>
+            <g id="Globe-left" transform="translate(0.080017, 139.000000)" fill="#104A57" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-30" x="0" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy" x="7.30434783" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy-2" x="14.6086957" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy-3" x="23.1304348" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-28" x="0" y="0" width="28" height="33.8333333"></rect>
+            </g>
+            <g id="Globe-right" transform="translate(108.080017, 139.000000)" fill="#104A57" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-30" x="0" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy" x="7.30434783" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy-2" x="14.6086957" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-30-Copy-3" x="23.1304348" y="29.1666667" width="4.86956522" height="12.8333333"></rect>
+                <rect id="Rectangle-28" x="0" y="0" width="28" height="33.8333333"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

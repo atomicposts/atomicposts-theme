@@ -13,3 +13,21 @@
 .label-yellow {
   @include label-variant(lighten($brand-yellow, 10%));
 }
+
+/* 404 Error page */
+.error404 .page-header {
+  text-align: center;
+}
+  .error404 .message-404 {
+  margin: 30px 0;
+}
+
+.error404 .search-form {
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Homepage */
+.home .page-header {
+  display: none;
+}

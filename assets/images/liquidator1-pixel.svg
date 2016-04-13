@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="115px" height="246px" viewBox="0 0 115 246" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Bit aquamarine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Bit-aquamarine" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-15" fill="#91BEAE" sketch:type="MSShapeGroup" x="25" y="0" width="62" height="75"></rect>
+            <rect id="Rectangle-16" fill="#424242" sketch:type="MSShapeGroup" x="25" y="17" width="48" height="58"></rect>
+            <rect id="Rectangle-17" fill="#C5946F" sketch:type="MSShapeGroup" x="25" y="21" width="44" height="49"></rect>
+            <rect id="Rectangle-18" fill="#91BEAE" sketch:type="MSShapeGroup" x="26" y="75" width="63" height="87"></rect>
+            <rect id="Rectangle-18-Copy" fill="#91BEAE" sketch:type="MSShapeGroup" x="94" y="75" width="18" height="75"></rect>
+            <rect id="Rectangle-18-Copy-2" fill="#91BEAE" sketch:type="MSShapeGroup" x="4" y="75" width="18" height="75"></rect>
+            <rect id="Rectangle-18-Copy-3" fill="#91BEAE" sketch:type="MSShapeGroup" transform="translate(54.500000, 86.500000) rotate(90.000000) translate(-54.500000, -86.500000) " x="43" y="43" width="23" height="87"></rect>
+            <rect id="Rectangle-19" fill="#91BEAE" sketch:type="MSShapeGroup" x="26" y="155" width="29" height="87"></rect>
+            <rect id="Rectangle-19-Copy" fill="#91BEAE" sketch:type="MSShapeGroup" x="58" y="155" width="31" height="87"></rect>
+            <rect id="Rectangle-21" fill="#424242" sketch:type="MSShapeGroup" x="22" y="197" width="33" height="49"></rect>
+            <rect id="Rectangle-21-Copy-2" fill="#424242" sketch:type="MSShapeGroup" x="10" y="225" width="33" height="21"></rect>
+            <rect id="Rectangle-21-Copy-3" fill="#424242" sketch:type="MSShapeGroup" x="69" y="225" width="33" height="21"></rect>
+            <rect id="Rectangle-21-Copy" fill="#424242" sketch:type="MSShapeGroup" x="58" y="197" width="33" height="49"></rect>
+            <rect id="Rectangle-38" fill="#D4A984" sketch:type="MSShapeGroup" x="32" y="21" width="5" height="21"></rect>
+            <rect id="Rectangle-38-Copy" fill="#D4A984" sketch:type="MSShapeGroup" x="47" y="41" width="5" height="29"></rect>
+            <rect id="Rectangle-38-Copy-2" fill="#D4A984" sketch:type="MSShapeGroup" x="34" y="36" width="18" height="6"></rect>
+            <g id="Globe-left" transform="translate(0.500000, 126.000000)" fill="#104A57" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-30" x="0" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy" x="6" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy-2" x="12" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy-3" x="19" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-28" x="0" y="0" width="23" height="29"></rect>
+            </g>
+            <g id="Globe-right" transform="translate(91.500000, 126.000000)" fill="#104A57" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-30" x="0" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy" x="6" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy-2" x="12" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-30-Copy-3" x="19" y="25" width="4" height="11"></rect>
+                <rect id="Rectangle-28" x="0" y="0" width="23" height="29"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

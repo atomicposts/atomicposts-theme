@@ -86,6 +86,8 @@ function display_sidebar() {
     is_404(),
     //is_front_page(),
     is_single(),
+    is_page_template('template-nosotros.php'),
+    is_page_template('template-contact.php'),
     is_page_template('template-custom.php'),
   ]);
 
