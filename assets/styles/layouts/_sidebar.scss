@@ -21,7 +21,7 @@
     h3 {
       font-family: $font-family-title;
       color: white;
-      text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+      text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
       text-align: right;
       padding: 15px 15px 25px 10px;
       position: relative;
@@ -51,6 +51,7 @@
 
     &.widget_tag_cloud .tagcloud a {
       float: right;
+      padding: .4em .9em .4em;
       margin: 5px 0 5px 5px;
       @extend .label;
       @extend .label-aquamarine;
