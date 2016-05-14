@@ -76,3 +76,18 @@
     }
   }
 }
+
+
+/* Single entry */
+.single {
+  .post {
+    header {
+      h1 {
+        float: left;
+        margin: 30px 0 20px 0;
+        display: block;
+        width: 100%;
+      }
+    }
+  }
+}
