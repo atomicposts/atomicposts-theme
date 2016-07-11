@@ -51,18 +51,6 @@
 
     &.widget_tag_cloud .tagcloud a {
       float: right;
-      padding: .4em .9em .4em;
-      margin: 5px 0 5px 5px;
-      @extend .label;
-      @extend .label-aquamarine;
-      font-size: 12px !important;
-      line-height: 13px;
-      &:nth-child(3n+1) {
-        @extend .label-orange;
-      }
-      &:nth-child(3n+2) {
-        @extend .label-yellow;
-      }
     }
   }
 }

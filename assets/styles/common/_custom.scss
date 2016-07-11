@@ -304,4 +304,17 @@ svg {
   height: 250px;
 }
 
+/* Aviso cookies */
+#obt_ga_banner {
+  position: absolute;
+  top: 0;
+  z-index: 99999;
+  font-size: 12px;
+  #obt_ga_contenido h2 {
+    font-size: 25px;
+  }
+  #obt_ga_boton {
+    font-size: 15px;
+  }
+}
 

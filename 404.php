@@ -2,7 +2,7 @@
 
 <div class="row">
     <div class="col-sm-6 col-sm-offset-3 col-xs-offset-1 col-xs-10">
-        <img class="img-responsive" src="<?= get_template_directory_uri();?>/assets/images/404.svg" alt="Bidones"/>
+        <img class="img-responsive" src="<?= get_template_directory_uri();?>/dist/images/404.svg" alt="Bidones"/>
     </div>
 </div>
 

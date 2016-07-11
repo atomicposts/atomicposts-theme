@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="brand navbar-brand" href="<?= esc_url(home_url('/')); ?>">
-                <img class="img-responsive" src="<?= get_template_directory_uri();?>/assets/images/atom.svg" alt="<?= get_bloginfo("name"); ?>"/>
+                <img class="img-responsive" src="<?= get_template_directory_uri();?>/dist/images/atom.svg" alt="<?= get_bloginfo("name"); ?>"/>
                 <span>
                     <span>Atomic</span>
                     <span class="text-yellow">Posts</span>
