@@ -12,6 +12,6 @@
         <?php the_excerpt(); ?>
     </div>
     <footer>
-        <a href="<?php the_permalink(); ?>"><?php  _e('Read more', 'atomicposts'); ?></a>
+        <a href="<?php the_permalink(); ?>"><?= __('Read more', 'sage'); ?></a>
     </footer>
 </article>

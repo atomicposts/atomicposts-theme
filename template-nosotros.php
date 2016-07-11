@@ -128,6 +128,18 @@
         update(maskedElement, circleFeedback, cursorPoint(svgPoint, e, svgElement));
     });
 
+    $(".frame").bind('touchmove', function(e){
+        e.preventDefault();
+        var touch = e.originalEvent.touches[0] || e.originalEvent.changedTouches[0];
+        if (touch) {
+            var svgElement = $(this).find('svg').get(0);
+            var maskedElement = $(this).find('.mask-circle').get(0);
+            var circleFeedback = $(this).find('.circle-shadow').get(0);
+            var svgPoint = svgElement.createSVGPoint();
+            update(maskedElement, circleFeedback, cursorPoint(svgPoint, touch, svgElement));
+        }
+    });
+
 })(jQuery);
 
 
