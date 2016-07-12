@@ -11,7 +11,7 @@ body {
   font-family: $font-family-title;
 
   @media (max-width: $grid-float-breakpoint) {
-    min-height: 100px;
+    min-height: 80px;
   }
 }
 
@@ -55,7 +55,7 @@ body {
   }
 
   @media (max-width: $grid-float-breakpoint) {
-    height: 100px;
+    height: 80px;
     font-size: 30px;
     line-height: 25px;
     > img {
@@ -185,7 +185,7 @@ body {
   }
 
   @media (max-width: $grid-float-breakpoint) {
-    margin: 30px;
+    margin: 30px 30px 15px 30px;
   }
 }
 // Navbar nav links
@@ -266,7 +266,7 @@ body.logged-in header.navbar-default {
 }
 
 /* Styles for nosotros */
-.nosotros {
+.page-template-template-nosotros {
   .liquidator {
     margin-bottom: 20px;
     .frame {
@@ -279,6 +279,16 @@ body.logged-in header.navbar-default {
       }
       p {
         color: $gray-light;
+      }
+    }
+    footer {
+      text-align: right;
+      a {
+        color: $brand-orange;
+        &:hover {
+          color: $brand-aquamarine;
+          text-decoration: none;
+        }
       }
     }
   }

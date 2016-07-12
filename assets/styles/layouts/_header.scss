@@ -1,0 +1,28 @@
+/* Languages menu switcher */
+nav.language-switcher {
+  margin-top: 5px;
+  float: right;
+  ul {
+    li {
+      list-style: none;
+      float: left;
+      margin: 0 0 0 5px;
+      &:before {
+        content: " | ";
+      }
+      &:first-child:before {
+        content: "";
+      }
+      &.current-lang a{
+        color: $brand-aquamarine;
+      }
+      a {
+        color: $brand-dark-brown;
+        text-decoration: none;
+      }
+    }
+  }
+  @media (max-width: $grid-float-breakpoint) {
+    margin: 0 15px;
+  }
+}

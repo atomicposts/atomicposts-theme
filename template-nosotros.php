@@ -31,12 +31,17 @@
                         <circle class="circle-shadow" cx="50%" cy="50%" r="20%" style="stroke: #ccc; fill: transparent; stroke-width: 5;" />
                     </svg>
                 </div>
-                <div class="col-sm-8 description">
+                <article class="col-sm-8 description">
                     <h3>Liquidadora Alfa</h3>
                     <p>
                         <?php echo get_post_meta($post->ID, 'liquidador1', true); ?>
                     </p>
-                </div>
+                    <?php if(get_post_meta($post->ID, 'liquidador1_twitter', true)): ?>
+                        <footer>
+                            <a target="_blank" href="http://twitter.com/<?php echo get_post_meta($post->ID, 'liquidador1_twitter', true); ?>"><?php echo '@' .get_post_meta($post->ID, 'liquidador3_twitter', true); ?></a>
+                        </footer>
+                    <?php endif; ?>
+                </article>
             </div>
 
             <div class="row liquidator">
@@ -60,12 +65,17 @@
                     </svg>
                 </div>
 
-                <div class="col-sm-8 description">
+                <article class="col-sm-8 description">
                     <h3>Liquidador Beta</h3>
                     <p>
                         <?php echo get_post_meta($post->ID, 'liquidador2', true); ?>
                     </p>
-                </div>
+                    <?php if(get_post_meta($post->ID, 'liquidador2_twitter', true)): ?>
+                        <footer>
+                            <a target="_blank" href="http://twitter.com/<?php echo get_post_meta($post->ID, 'liquidador2_twitter', true); ?>"><?php echo '@' .get_post_meta($post->ID, 'liquidador2_twitter', true); ?></a>
+                        </footer>
+                    <?php endif; ?>
+                </article>
             </div>
 
 
@@ -89,12 +99,17 @@
                         <circle class="circle-shadow" cx="50%" cy="50%" r="20%" style="stroke: #ccc; fill: transparent; stroke-width: 5;" />
                     </svg>
                 </div>
-                <div class="col-sm-8 description">
+                <article class="col-sm-8 description">
                     <h3>Liquidador Gamma</h3>
                     <p>
                         <?php echo get_post_meta($post->ID, 'liquidador3', true); ?>
                     </p>
-                </div>
+                    <?php if(get_post_meta($post->ID, 'liquidador3_twitter', true)): ?>
+                        <footer>
+                            <a target="_blank" href="http://twitter.com/<?php echo get_post_meta($post->ID, 'liquidador3_twitter', true); ?>"><?php echo '@' .get_post_meta($post->ID, 'liquidador3_twitter', true); ?></a>
+                        </footer>
+                    <?php endif; ?>
+                </article>
             </div>
             <?php get_template_part('templates/content', 'page'); ?>
         </div>

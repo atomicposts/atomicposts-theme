@@ -23,5 +23,12 @@
             endif;
             ?>
         </nav>
+
+        <nav class="language-switcher">
+            <ul>
+                <?php pll_the_languages(array('display_names_as' => 'slug')); ?>
+            </ul>
+        </nav>
+
     </div>
 </header>
