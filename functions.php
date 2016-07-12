@@ -35,3 +35,10 @@ function SearchFilter($query) {
 }
 
 add_filter('pre_get_posts','SearchFilter');
+
+add_filter('disqus_language_filter', function( $lang ){
+    // la función pll_current_language es del plugin polylang; y devuelve el idioma de la entrada actual
+    $current_language = function_exists('pll_current_language') ? pll_current_language('locale') : 'es_ES';
+    // ojo que en Disqus, inglés es "en" pero español "es_ES" :-P
+    return $current_language == 'en_US' ? 'en' : $current_language;
+});
