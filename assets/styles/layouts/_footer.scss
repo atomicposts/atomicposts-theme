@@ -26,8 +26,8 @@ body > footer {
   }
   .reactors {
     position: absolute;
-    right: 5%;
-    top: -120px;
+    right: 0;
+    top: -220px;
   }
   .widget_nav_menu {
     float: right;
@@ -56,7 +56,7 @@ body > footer {
       }
     }
   }
-  .logo {
-
+  .container {
+    position: relative;
   }
 }
