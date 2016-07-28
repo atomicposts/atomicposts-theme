@@ -4,6 +4,11 @@
   .entry-summary {
     float: left;
   }
+  .entry-content {
+    p {
+      margin: $line-height-computed 0 ($line-height-computed / 2) 0;
+    }
+  }
   > header {
     font-size: 14px;
     > .wp-post-image {
